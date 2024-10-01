@@ -36,3 +36,9 @@ Characteristics of DBMS
 4. Reduce time: It reduces development time and maintenance need.
 5. Backup: It provides backup and recovery subsystems which create automatic backup of data from hardware and software failures and restores the data if required.
 6. multiple user interface: It provides different types of user interfaces like graphical user interfaces, application program interfaces
+
+7. Disadvantages of DBMS
+1. Cost of Hardware and Software: It requires a high speed of data processor and large memory size to run DBMS software.
+2. Size: It occupies a large space of disks and large memory to run them efficiently.
+3. Complexity: Database system creates additional complexity and requirements.
+4. Higher impact of failure: Failure is highly impacted the database because in most of the organization, all the data stored in a single database and if the database is damaged due to electric failure or database corruption then the data may be lost forever.
