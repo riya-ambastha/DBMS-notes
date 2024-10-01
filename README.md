@@ -28,3 +28,11 @@ Characteristics of DBMS
 6. It is used to support manipulation and processing of data.
 7. It is used to provide security of data.
 8. It can view the database from different viewpoints according to the requirements of the user.
+
+9. Advantages of DBMS
+1. Controls database redundancy: It can control data redundancy because it stores all the data in one single database file and that recorded data is placed in the database.
+2. Data sharing: In DBMS, the authorized users of an organization can share the data among multiple users.
+3. Easily Maintenance: It can be easily maintainable due to the centralized nature of the database system.
+4. Reduce time: It reduces development time and maintenance need.
+5. Backup: It provides backup and recovery subsystems which create automatic backup of data from hardware and software failures and restores the data if required.
+6. multiple user interface: It provides different types of user interfaces like graphical user interfaces, application program interfaces
