@@ -79,3 +79,10 @@ b) The internal schema is also known as a physical schema.
 c) It uses the physical data model. It is used to define that how the data will be stored in a block.
 d) The physical level is used to describe complex low-level data structures in detail.
 
+2.  Conceptual Level
+   a) The conceptual schema describes the design of a database at the conceptual level. Conceptual level is also known as logical level.
+b) The conceptual schema describes the structure of the whole database.
+c) The conceptual level describes what data are to be stored in the database and also describes what relationship exists among those data.
+d)  In the conceptual level, internal details such as an implementation of the data structure are hidden.
+e) Programmers and database administrators work at this level.
+   
