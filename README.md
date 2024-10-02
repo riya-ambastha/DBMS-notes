@@ -67,3 +67,15 @@ b) The application on the client-end interacts with an application server which 
 c) End user has no idea about the existence of the database beyond the application server. The database also has no idea about any other user beyond the application.
 d) The 3-Tier architecture is used in case of large web application.
 
+Three schema Architecture
+a) The three schema architecture is also called ANSI/SPARC architecture or three-level architecture.
+b) This framework is used to describe the structure of a specific database system.
+c) The three schema architecture is also used to separate the user applications and physical database.
+d) The three schema architecture contains three-levels. It breaks the database down into three different categories.
+
+1. Internal Level
+a) The internal level has an internal schema which describes the physical storage structure of the database.
+b) The internal schema is also known as a physical schema.
+c) It uses the physical data model. It is used to define that how the data will be stored in a block.
+d) The physical level is used to describe complex low-level data structures in detail.
+
