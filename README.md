@@ -85,4 +85,9 @@ b) The conceptual schema describes the structure of the whole database.
 c) The conceptual level describes what data are to be stored in the database and also describes what relationship exists among those data.
 d)  In the conceptual level, internal details such as an implementation of the data structure are hidden.
 e) Programmers and database administrators work at this level.
-   
+
+3. External Level
+  a)  At the external level, a database contains several schemas that sometimes called as subschema. The subschema is used to describe the different view of the database.
+b) An external schema is also known as view schema.
+c) Each view schema describes the database part that a particular user group is interested and hides the remaining database from that user group.
+d) The view schema describes the end user interaction with database systems.
