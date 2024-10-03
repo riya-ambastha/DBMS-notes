@@ -99,3 +99,14 @@ TYPES OF DATA MODEL:
 1) Relational Data Model: This type of model designs the data in the form of rows and columns within a table. Thus, a relational model uses tables for representing data and in-between relationships. Tables are also called relations. This model was initially described by Edgar F. Codd, in 1969. The relational data model is the widely used model which is primarily used by commercial data processing applications.
 2) Entity-Relationship Data Model: An ER model is the logical representation of data as objects and relationships among them. These objects are known as entities, and relationship is an association among these entities. This model was designed by Peter Chen and published in 1976 papers. It was widely used in database designing. A set of attributes describe the entities. For example, student_name, student_id describes the 'student' entity. A set of the same type of entities is known as an 'Entity set', and the set of the same type of relationships is known as 'relationship set'.
 3)  Object-based Data Model: An extension of the ER model with notions of functions, encapsulation, and object identity, as well. This model supports a rich type system that includes structured and collection types. Thus, in 1980s, various database systems following the object-oriented approach were developed. Here, the objects are nothing but the data carrying its properties.
+
+Data model Schema and Instance:
+a) The data which is stored in the database at a particular moment of time is called an instance of the database.
+b) The overall design of a database is called schema.
+c) A database schema is the skeleton structure of the database. It represents the logical view of the entire database.
+d) A schema contains schema objects like table, foreign key, primary key, views, columns, data types, stored procedure, etc.
+e) A database schema can be represented by using the visual diagram. That diagram shows the database objects and relationship with each other.
+f) A database schema is designed by the database designers to help programmers whose software will interact with the database. The process of database creation is called data modeling.
+g) A schema diagram can display only some aspects of a schema like the name of record type, data type, and constraints. Other aspects can't be specified through the schema diagram. For example, the given figure neither show the data type of each data item nor the relationship among various files.
+
+ 
