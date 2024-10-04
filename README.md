@@ -126,4 +126,8 @@ If we do any changes in the storage size of the database system server, then the
 Physical data independence is used to separate conceptual levels from the internal levels.
 Physical data independence occurs at the logical interface level.
 
+Database Languages in DBMS
+A DBMS has appropriate languages and interfaces to express database queries and updates.
+Database languages can be used to read, store and update the data in the database.
+
  
