@@ -188,10 +188,29 @@ ER (Entity Relationship) Diagram in DBMS:
 2) It develops a conceptual design for the database. It also develops a very simple and easy to design view of data.
 3) In ER modeling, the database structure is portrayed as a diagram called an entity-relationship diagram.
 4) For example, Suppose we design a school database. In this database, the student will be an entity with attributes like address, name, id, age, etc. The address can be another entity with attributes like city, street name, pin code, etc and there will be a relationship between them.
+5) COMPONENTS OF ER MODEL:
 
+1. Entity:
+An entity may be any object, class, person or place. In the ER diagram, an entity can be represented as rectangles.
 
+A) WEAK ENTITY - An entity that depends on another entity called a weak entity. The weak entity doesn't contain any key attribute of its own. The weak entity is represented by a double rectangle.
 
+2. Attribute
+The attribute is used to describe the property of an entity. Eclipse is used to represent an attribute
 
+a. Key Attribute
+The key attribute is used to represent the main characteristics of an entity. It represents a primary key. The key attribute is represented by an ellipse with the text underlined.
 
+b)composite attribute 
+An attribute that composed of many other attributes is known as a composite attribute. The composite attribute is represented by an ellipse, and those ellipses are connected with an ellipse.
+
+c. Multivalued Attribute
+An attribute can have more than one value. These attributes are known as a multivalued attribute. The double oval is used to represent multivalued attribute.
+
+d. Derived Attribute
+An attribute that can be derived from other attribute is known as a derived attribute. It can be represented by a dashed ellipse.
+
+3. Relationship
+A relationship is used to describe the relation between entities. Diamond or rhombus is used to represent the relationship.
 
  
