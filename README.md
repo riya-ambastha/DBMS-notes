@@ -213,4 +213,22 @@ An attribute that can be derived from other attribute is known as a derived attr
 3. Relationship
 A relationship is used to describe the relation between entities. Diamond or rhombus is used to represent the relationship.
 
+Types of relationship are as follows:
+
+a. One-to-One Relationship
+When only one instance of an entity is associated with the relationship, then it is known as one to one relationship.
+For example, A female can marry to one male, and a male can marry to one female.
+
+b. One-to-many relationship
+When only one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then this is known as a one-to-many relationship.
+For example, Scientist can invent many inventions, but the invention is done by the only specific scientist.
+
+c. Many-to-one relationship
+When more than one instance of the entity on the left, and only one instance of an entity on the right associates with the relationship then it is known as a many-to-one relationship.
+For example, Student enrolls for only one course, but a course can have many students.
+
+d. Many-to-many relationship
+When more than one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then it is known as a many-to-many relationship.
+For example, Employee can assign by many projects and project can have many employees.
+
  
