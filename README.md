@@ -231,7 +231,7 @@ d. Many-to-many relationship
 When more than one instance of the entity on the left, and more than one instance of an entity on the right associates with the relationship then it is known as a many-to-many relationship.
 For example, Employee can assign by many projects and project can have many employees.
 
-Keys
+Keys : 
 Keys play an important role in the relational database.
 It is used to uniquely identify any record or row of data from the table. It is also used to establish and identify relationships between tables.
 For example, ID is used as a key in the Student table because it is unique for each student. In the PERSON table, passport_number, license_number, SSN are keys since they are unique for each person.
