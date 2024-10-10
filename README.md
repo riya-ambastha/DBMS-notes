@@ -271,6 +271,13 @@ For example, in employee relations, we assume that an employee may be assigned m
 The key created using arbitrarily assigned data are known as artificial keys. These keys are created when a primary key is large and complex and has no relationship with many other relations. The data values of the artificial keys are usually numbered in a serial order.
 For example, the primary key, which is composed of Emp_ID, Emp_role, and Proj_ID, is large in employee relations. So it would be better to add a new virtual attribute to identify each tuple in the relation uniquely.
 
+Integrity Constraints :
+Integrity constraints are a set of rules. It is used to maintain the quality of information.
+Integrity constraints ensure that the data insertion, updating, and other processes have to be performed in such a way that data integrity is not affected.
+Thus, integrity constraint is used to guard against accidental damage to the database.
+
+Types of Integrity Constraint
+
 
 
 
